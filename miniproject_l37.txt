@@ -1,3 +1,9 @@
+Explanation:
+Conversion Functions: Two functions perform the conversion between Celsius and Fahrenheit.
+Menu: The user can select the conversion direction, enter the temperature, and get the converted result.
+
+
+
 #include <stdio.h>
 void celsiusToFahrenheit(float celsius) {
     float fahrenheit = (celsius * 9/5) + 32;
@@ -35,6 +41,3 @@ int main() {
     }
     return 0;
 }
-Explanation:
-Conversion Functions: Two functions perform the conversion between Celsius and Fahrenheit.
-Menu: The user can select the conversion direction, enter the temperature, and get the converted result.
