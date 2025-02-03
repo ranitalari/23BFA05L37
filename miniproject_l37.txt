@@ -41,3 +41,26 @@ int main() {
     }
     return 0;
 }
+
+INPUT/OUTPUT:
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 1
+Enter the temperature: 35
+35.00 Celsius = 95.00 Fahrenheit
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 2
+Enter the temperature: 20
+20.00 Fahrenheit = -6.67 Celsius
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
